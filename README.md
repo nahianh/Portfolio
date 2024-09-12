@@ -1,3 +1,9 @@
-# portfolio
+# Data Science Portfolio
 
-test
+A compilation of projects completed for independent learning purposes and previous courses/internships. 
+
+## Independent Projects
+
+## Course Projects
+
+## Educational Opportunity Project (EOP) Summer Internship
