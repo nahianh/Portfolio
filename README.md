@@ -4,10 +4,12 @@ A compilation of projects for independent learning purposes and previous courses
 
 ## Independent Projects
 ### [Leafly Webscraping and Strain Rating Prediction (in progress)](https://github.com/nahianh/Leafly-Cannabis-Scraping-Modeling)
-- Languages: Python (pandas, Selenium)
+- Languages: Python (pandas, selenium)
+- The goal of this project is to extract the data of each cannabis strain available on the Leafly website and predict the rating and popularity of the strain based on its characteristics.
 
-### Spotify Song Genre Prediction
+### [Spotify Song Genre Prediction](https://github.com/nahianh/Spotify-Genre-Prediction/blob/main/Predicting_Song_Genres_based_on_Audio_Features.ipynb)
 - Languages: Python (pandas, numpy, sklearn, matplotlib)
+- I explore song data obtained from Spotify via the [spotifyr package](https://www.rcharlie.com/spotifyr/). I train an ML classifier to predict the genre of a song based on the audio features. Comparing the accuracy metrics of 7 classification algorithms, including K-Nearest Neighbors, Random Forest, and XGB, I find that XGB results in the highest F1 score among the algorithms. 
   
 ## Course Projects
 ### [Detachment and Discipline: The Effects of Federal School Policing Grants on California Secondary Schools](https://github.com/nahianh/Economics-of-Education-Final-Project)
