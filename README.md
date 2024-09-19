@@ -3,12 +3,16 @@
 A compilation of projects for independent learning purposes and previous courses/internships. 
 
 ## Independent Projects
+### [Fatal Police Shootings (2015-2024) Data Analysis](https://github.com/nahianh/Police-Shootings/tree/main)
+- SQL, Tableau
+- I explore the Washington Post's Fatal Force Database. Starting in 2015, the Washington Post began tracking every person shot and killed by the police. Through demographic analysis, I find that the majority of victims are young (between 20-40 years), overwhelmingly male, and that Native and Black Americans are killed at disproportionate rates. I also analyze time trends, seasonality, body camera utilization, involvement of weapons, and produce a map displaying the geographic distribution of fatal shootings. [View my Tableau Dashboard here.](https://public.tableau.com/app/profile/nahian.haque/viz/FatalPoliceShootings2015-2024/Dashboard1)
+
 ### [Leafly Webscraping and Strain Rating Prediction (in progress)](https://github.com/nahianh/Leafly-Cannabis-Scraping-Modeling)
-- Languages: Python (pandas, selenium)
+- Python (pandas, selenium)
 - The goal of this project is to extract the data of each cannabis strain available on the Leafly website and predict the rating and popularity of the strain based on its characteristics.
 
 ### [Spotify Song Genre Prediction](https://github.com/nahianh/Spotify-Genre-Prediction/blob/main/Predicting_Song_Genres_based_on_Audio_Features.ipynb)
-- Languages: Python (pandas, numpy, sklearn, matplotlib)
+- Python (pandas, numpy, sklearn, matplotlib)
 - I explore song data obtained from Spotify via the [spotifyr package](https://www.rcharlie.com/spotifyr/). I train an ML classifier to predict the genre of a song based on the audio features. Comparing the accuracy metrics of 7 classification algorithms, including K-Nearest Neighbors, Random Forest, and XGB, I find that XGB results in the highest F1 score among the algorithms. 
   
 ## Course Projects
